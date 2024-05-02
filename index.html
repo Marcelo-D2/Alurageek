@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+	<title>Alurageek</title>
+	<link rel="stylesheet" href="./css/reset.css">
+	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" href="./css/flexbox.css">
+	<link rel="icon" href="./img/icon.png">
+	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+	<header>
+		<nav class="cabecalho">
+			<a class="logo" href="index.html">
+				<img src="./img/logo.png">
+			</a>
+			<div class="cabecalho_pesquisar">
+				<input type="search" placeholder="Pesquisar" id="pesquisar" class="pesquisar_input" data-pesquisa>
+				<button class="pesquisar_botao" data-botao-pesquisa><i class='bx bx-search'></i></button>
+			</div>
+			<div class="cabecalho_icones">
+				<a class="upload_cards" href="enviar_cards.html"><i class='bx bx-cloud-upload'></i></a>
+			</div>
+		</nav>
+	</header>
+	<div class="product_main">
+		<h2 class="title">Novos Produtos</h2>
+		<ul class="cards_container" alt="cards" data-lista>
+			
+			<li class="cards_item">
+				<div class="product_grid container">
+					<div class="card">
+						<div class="showcase flip-card flip-horizontal-left">
+							<div class="flip-card-inner">
+								<div class="showcase_banner flip-card-front">
+									<img src="./img/gatts01.jpg" alt="figure action" width="300" class="card-front">
+								</div>
+								<div class="showcase_banner flip-card-back">
+									<img src="./img/gatts02.jpg" alt="figure action" width="300" class="card-back">
+								</div>
+							</div>
+				
+							<div class="showcase_content">
+								<a href="#" class="showcase_category">Figure Action</a>
+								<a href="#">
+									<h3 class="showcase_title">Berserk Gatts</h3>
+								</a>
+							</div>
+							<div class="price_box">
+								<p class="price">R$:1.580.00</p>
+								<del>R$:1.750.00</del>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			
+		</ul>
+	</div>
+	<footer class="footer">
+		<div class="logo">
+			<img src="./img/logo.png">
+		</div>
+		<p class="copyright">Desenvolvido por
+      		<span>@ MJS Design</span> | Todos os direitos reservados
+    	</p>
+	</footer>
+	<script src="./js/buscarCard.js" type="module"></script>
+	<script src="./js/conectaApi.js" type="module"></script>
+	<script src="./js/criarCard.js" type="module"></script>
+	<script src="./js/mostrarcard.js" type="module"></script>
+</body>
+</html>

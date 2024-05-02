@@ -1,0 +1,85 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "imagem1": "https://www.prime1studio.com/on/demandware.static/-/Sites-p1s-master-catalog/default/dwe69ff526/images/MMBR-02DXS/catalog/mmbr-02dxs_a00-01-08_1.jpg",
+      "imagem2": "https://www.prime1studio.com/on/demandware.static/-/Sites-p1s-master-catalog/default/dwa61efb89/images/MMBR-02DXS/catalog/mmbr-02dxs_a10_1.jpg",
+      "categoria": "Figure Action",
+      "titulo": "Gatts - Berserk",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    },
+    {
+      "id": "2",
+      "imagem1": "https://images.tcdn.com.br/img/img_prod/460977/estatua_roronoa_zoro_asura_dragon_tiger_one_piece_saga_de_wano_22_cm_anime_manga_mkp_120147_1_862adc73ac60c64ad8a465f126aab770.jpg",
+      "imagem2": "https://images.tcdn.com.br/img/img_prod/460977/estatua_roronoa_zoro_asura_dragon_tiger_one_piece_saga_de_wano_22_cm_anime_manga_mkp_120147_3_326a0b5c63788af3bcdf94ddb68e0e18.jpg",
+      "categoria": "Figure Action",
+      "titulo": "Roronoa Zoro - One Piece",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    },
+    {
+      "id": "3",
+      "imagem1": "https://www.gkfigure.com/cdn/shop/files/image_de99ca02-0fcb-4e40-ad59-07dab94441c6.jpg?v=1682656719&width=823",
+      "imagem2": "https://www.gkfigure.com/cdn/shop/files/image_b42eaecf-6cd0-46dc-8951-c09dea3d4c84.jpg?v=1682656720&width=823",
+      "categoria": "Figure Action",
+      "titulo": "Erza Scarlet - Fairy Tail",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    },
+    {
+      "id": "4",
+      "imagem1": "https://www.specfictionshop.com/cdn/shop/products/mmexport1664240210235_2000x.jpg?v=1664263762",
+      "imagem2": "https://www.specfictionshop.com/cdn/shop/products/mmexport1664240202965_2000x.jpg?v=1664263762",
+      "categoria": "Figure Action",
+      "titulo": "Seshoumaru - Inuyasha",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    },
+    {
+      "id": "5",
+      "imagem1": "https://images.tcdn.com.br/img/img_prod/460977/pre_venda_boneco_logan_x_men_premium_format_sideshow_44200_1_20201211173437.png",
+      "imagem2": "https://images.tcdn.com.br/img/img_prod/460977/pre_venda_boneco_logan_x_men_premium_format_sideshow_44200_6_20201211173441.jpg",
+      "categoria": "Figure Action",
+      "titulo": "Wolverine - X-Men",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    },
+    {
+      "id": "6",
+      "imagem1": "https://www.nerdloja.com/cdn/shop/products/Saa905b4db40f4459801c0d3bb0468ed6e_480x.jpg?v=1676083655",
+      "imagem2": "https://www.nerdloja.com/cdn/shop/products/Sa50cb70c68cd4b32a0722ed8cc762fe5K_720x.jpg?v=1676083658",
+      "categoria": "Figure Action",
+      "titulo": "Kratos - God of War",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    },
+    {
+      "id": "7",
+      "imagem1": "https://acdn.mitiendanube.com/stores/002/321/455/products/819ajqysntl-_ac_sl1200_1-75bbabfe5ec5ab9ba516687238315240-640-0.webp",
+      "imagem2": "https://acdn.mitiendanube.com/stores/002/321/455/products/81o49dv-kl-_ac_sl1200_1-5f4c3685133359331616687238315197-1024-1024.webp",
+      "categoria": "Figure Action",
+      "titulo": "Link - The Legend of Zelda",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    },
+    {
+      "id": "8",
+      "imagem1": "https://images.tcdn.com.br/img/img_prod/460977/estatua_geralt_de_rivia_the_witcher_3_wild_hunt_estudio_prime_1_apenas_venda_online_27519_2_20201211173335.jpg",
+      "imagem2": "https://images.tcdn.com.br/img/img_prod/460977/estatua_geralt_de_rivia_the_witcher_3_wild_hunt_estudio_prime_1_apenas_venda_online_27519_4_20201211173337.jpg",
+      "categoria": "Figure Action",
+      "titulo": "Geralt - The Witcher",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    },
+    {
+      "id": "4ac3",
+      "imagem1": "https://http2.mlstatic.com/D_NQ_NP_692175-MLB69463820687_052023-O.webp",
+      "imagem2": "https://http2.mlstatic.com/D_NQ_NP_918215-MLB69463820695_052023-O.webp",
+      "categoria": "Figure Action",
+      "titulo": "Omega Head",
+      "preco2": "R$1.580.00",
+      "preco1": "R$:1.750.00"
+    }
+  ]
+}
